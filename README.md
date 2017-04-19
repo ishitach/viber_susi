@@ -25,7 +25,7 @@ To create your account on -:
  
  Click Second button from top-right, to discover public accounts made by you.
  
- <img src="./docs/images/publicAccoutStartScreen.png" alt="alt text" width="350" height="600">
+ <img src="./docs/images/publicAccoutStartScreen.png" alt="alt text" height = '480' width="270">
 
  Click blue button at bottom-right, to create a new one.
  
